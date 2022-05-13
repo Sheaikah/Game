@@ -1,9 +1,9 @@
-<!doctype html>
-<!--Code By WebDevTrick (https://webdevtrick.com)-->
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
  <meta charset="UTF-8">
- <title>Simple JavaScript Snake Game| Webdevtrick.com</title>
+ <title>Snake game</title>
  
  <style>
  canvas {
